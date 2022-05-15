@@ -1,0 +1,134 @@
+1649784237994	geckodriver	INFO	Listening on 127.0.0.1:62249
+1649784241073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62250" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileH0oYDn"
+1649784241961	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileH0oYDn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62250/devtools/browser/1c6c8cdc-74b3-436b-9084-52e83ba31abc
+1649784246622	Marionette	INFO	Listening on port 62280
+Read port: 62280
+1649784246783	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://byjus.com/algebra-formulas/, line 1679: TypeError: f[0] is undefined
+1649784333602	Marionette	INFO	Stopped listening on port 62280
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649785866613	geckodriver	INFO	Listening on 127.0.0.1:62617
+1649785869675	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62618" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileJG2ewo"
+1649820779913	geckodriver	INFO	Listening on 127.0.0.1:50882
+1649820783042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileqf6wa7"
+1649820783718	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileqf6wa7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50883/devtools/browser/824294e3-a116-47f2-ad34-219226387a2c
+1649820787486	Marionette	INFO	Listening on port 50907
+Read port: 50907
+1649820787536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649820792122	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1649821501187	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1649865485306	Marionette	INFO	Stopped listening on port 50907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\\Local\\Temp\\rust_mozprofileWAhrUS"
+1649821159920	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileWAhrUS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51027/devtools/browser/75129142-0b67-4da8-bfe7-7b2aaad38349
+1649821163315	Marionette	INFO	Listening on port 51040
+Read port: 51040
+1649821163424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649821250708	Marionette	INFO	Stopped listening on port 51040
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649821254949	geckodriver	INFO	Listening on 127.0.0.1:58938
+1649821258025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58939" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofiledqZqDq"
+1649821258727	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofiledqZqDq\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:58939/devtools/browser/9c71dedb-78d3-4381-be58-fc294fb2c1eb
+1649821262480	Marionette	INFO	Listening on port 58953
+Read port: 58953
+1649821262574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649821380616	Marionette	INFO	Stopped listening on port 58953
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1649821761785	geckodriver	INFO	Listening on 127.0.0.1:56001
+1649821764852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56002" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileaXPjn4"
+1649821765502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileaXPjn4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56002/devtools/browser/b88c7bcc-6667-42e2-8665-c62fdbb43a5a
+1649821769166	Marionette	INFO	Listening on port 56017
+Read port: 56017
+1649821769258	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://cdn-v1.intelliticks.com/prod/20220331/client/client.min.js, line 1: ReferenceError: jQuery is not defined
+1649822275569	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1649822734979	Marionette	INFO	Stopped listening on port 56017
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+\\Local\\Temp\\rust_mozprofileaqkcTr"
+1649822045193	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileaqkcTr\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:53819/devtools/browser/7973b7b8-79f3-462a-abf6-e8bd3fc67b3e
+1649822048932	Marionette	INFO	Listening on port 53832
+Read port: 53832
+1649822049021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  Message: TypeError: NetworkError: Network request failed
+  Stack:
+    fetch/</request.onerror@resource://services-settings/Utils.jsm:154:26
+
+1649822555287	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1649865487699	Marionette	INFO	Stopped listening on port 53832
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+DevTools listening on ws://localhost:62929/devtools/browser/f77af04d-718b-42f6-845a-d85a8c3d8447
+1649822088479	Marionette	INFO	Listening on port 59295
+Read port: 59295
+1649822088530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649822595449	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1649865491318	Marionette	INFO	Stopped listening on port 59295
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+"TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1649822347789	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1649822810157	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\SHWET_~1\AppData\Local\Temp\rust_mozprofileu3YpFJ\bookmarkbackups\bookmarks-2022-04-13.jsonlz4) because it does not exist
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1649865492581	Marionette	INFO	Stopped listening on port 63240
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofilez5edE2\\search.json.mozlz4", (void 0)))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:53852/devtools/browser/aa776d2e-45af-4fd0-8cc7-a166236bfd47
+1649824170695	Marionette	INFO	Listening on port 53865
+Read port: 53865
+1649824170785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649824186820	Marionette	INFO	Stopped listening on port 53865
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1649865498264	geckodriver	INFO	Listening on 127.0.0.1:64333
+1649865501323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileQT7yYQ"
+1649865502040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\SHWET_~1\\AppData\\Local\\Temp\\rust_mozprofileQT7yYQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64334/devtools/browser/d44ed764-0716-4e2e-a0d1-5f95ddac9c5d
+1649865505563	Marionette	INFO	Listening on port 64358
+Read port: 64358
+1649865505696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1649865518914	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.

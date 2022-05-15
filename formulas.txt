@@ -1,0 +1,6 @@
+Perimeter of a Square = 4(Side)
+Perimeter of a Rectangle = 2(Length + Breadth)
+Area of a Square = Side2
+Area of a Rectangle = Length × Breadth
+Area of a Triangle = ½ × base × height
+Area of a Trapezoid = ½ × \((base_1 + base_2)\) × height
